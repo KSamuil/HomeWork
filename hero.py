@@ -28,3 +28,4 @@ Hero.Health_is_double()
 print(f'Health points after doubling: {Hero.health_points}')
 print(str(Hero))
 print(f'Catchphrase length: {len(Hero)}')
+fdfdgd
